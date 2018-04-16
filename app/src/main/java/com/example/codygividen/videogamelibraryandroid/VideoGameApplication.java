@@ -1,6 +1,7 @@
 package com.example.codygividen.videogamelibraryandroid;
 
 import android.app.Application;
+import android.arch.persistence.room.Room;
 
 public class VideoGameApplication extends Application {
 
